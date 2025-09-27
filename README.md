@@ -28,27 +28,12 @@
 
 ---
 
-### 📊 GitHub Contributions
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BESUFKADMEKONNEN&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BESUFKADMEKONNEN&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
-
-### 🔥 GitHub Streak
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=BESUFKADMEKONNEN&theme=radical" alt="GitHub Streak" />
-</div>
-
----
-
 ### 🌐 Connect With Me
 <div align="center">
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://linkedin.com/in/besumack">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="besu19mackmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/BESUFKADMEKONNEN">
