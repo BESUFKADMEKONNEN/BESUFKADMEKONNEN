@@ -1,19 +1,19 @@
 # 👋 Hi, I'm Besufkad Mekonnen
 
-![Header](https://capsule-render.vercel.app/api?type=wave&color=0A66C2,4A90E2&height=240&section=header&text=Besufkad%20Mekonnen&fontSize=44&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Mobile%20Architect&descAlignY=62)
+![Header](https://capsule-render.vercel.app/api?type=wave&color=0A66C2,4A90E2,1E88E5&height=260&section=header&text=Besufkad%20Mekonnen&fontSize=45&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Mobile%20Architect%20%7C%20Team%20Lead&descAlignY=64)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=27&color=00C853&center=true&vCenter=true&lines=Full+Stack+Engineer;Mobile+Application+Architect;Spring+Boot+%7C+Next.js+%7C+React+Native;Building+Scalable+Enterprise+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=00E676&center=true&vCenter=true&width=800&lines=Full+Stack+Engineer;Mobile+Application+Architect;Spring+Boot+%7C+Next.js+%7C+React+Native;Passionate+about+Scalable+Enterprise+Solutions)](https://git.io/typing-svg)
 
 ---
 
 ### 🚀 About Me
 
-Results-driven **Full Stack Engineer** and **Team Lead** with proven experience designing, developing, and leading the delivery of scalable web and mobile applications. I specialize in building high-performance systems using modern technologies while mentoring teams to deliver quality software.
+Dynamic **Full Stack Engineer** and **Team Lead** with a strong track record of designing, architecting, and leading the development of high-performance web and mobile applications. I thrive on turning complex challenges into clean, scalable, and user-focused solutions.
 
-- 🌱 Currently advancing expertise in **Spring Boot microservices**, **distributed systems**, and **cloud-native architecture**
-- 💼 Experienced in leading development teams and driving projects from conception to production
-- 🎯 Mission: Architect and deliver impactful, maintainable software solutions that solve complex business challenges
-- ⚡ When not coding, I enjoy competitive programming and staying active in the developer community
+- 🌱 Currently mastering **Spring Boot microservices**, **cloud-native architectures**, and **distributed systems**
+- 💼 Proven experience leading development teams and delivering projects end-to-end
+- 🎯 Mission: Build impactful software that drives business value and exceptional user experiences
+- ⚡ Beyond coding, I love solving algorithmic challenges and contributing to the developer community
 
 ---
 
@@ -21,37 +21,39 @@ Results-driven **Full Stack Engineer** and **Team Lead** with proven experience 
 
 #### Core Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,nextjs,react,flutter,reactnative,tailwind,postgres,mongodb&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,nextjs,react,flutter,reactnative,tailwind,postgres,mongodb&perline=9" />
 </p>
 
 #### Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,prisma,vercel,aws,figma,vscode,postman,jenkins&perline=8" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,prisma,vercel,aws,figma,vscode,postman,jenkins,linux&perline=9" />
 </p>
 
 **Highlights:**
-- **Backend:** Spring Boot (Java/Kotlin), Node.js (NestJS/Express), TypeScript
+- **Backend:** Spring Boot (Java/Kotlin), NestJS, TypeScript
 - **Frontend:** Next.js (App Router), React, Tailwind CSS
 - **Mobile:** Flutter & React Native (Expo)
-- **Database & ORM:** PostgreSQL, MongoDB, Prisma, Drizzle
-- **DevOps & Others:** Docker, CI/CD, Git, AWS, Postman
+- **Database:** PostgreSQL, MongoDB, Prisma, Drizzle ORM
+- **DevOps & Others:** Docker, CI/CD, AWS, Git, Jenkins
 
 ---
 
 ### 💼 Experience & Leadership
 
-- **Team Lead** — Led cross-functional development teams on full-stack and mobile projects, ensuring timely delivery, code quality, and best practices.
-- **Full-Stack Development** — Architected and implemented robust applications using **Spring Boot microservices** and modern JavaScript/TypeScript ecosystems.
-- **Mobile Development** — Designed and developed high-performance cross-platform applications with Flutter and React Native.
-- **Software Architecture** — Applied Clean Architecture, Domain-Driven Design (DDD), and scalable system patterns.
-- **Best Practices** — Strong advocate of Test-Driven Development (TDD), code reviews, CI/CD pipelines, performance optimization, and security-first development.
+- **Team Leadership** — Led cross-functional teams in delivering full-stack and mobile applications, focusing on code quality, mentorship, and on-time delivery.
+- **Full-Stack Architecture** — Designed and implemented scalable solutions using **Spring Boot microservices** and modern TypeScript ecosystems.
+- **Mobile Development** — Built performant, native-feeling cross-platform applications with Flutter and React Native.
+- **System Design** — Applied Clean Architecture, Domain-Driven Design (DDD), REST & GraphQL APIs, and scalable system patterns.
+- **Engineering Excellence** — Champion of Test-Driven Development (TDD), CI/CD pipelines, performance optimization, security, and clean code principles.
 
 ---
 
 ### 📊 GitHub Stats
 
-![Besufkad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BESUFKADMEKONNEN&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BESUFKADMEKONNEN&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BESUFKADMEKONNEN&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BESUFKADMEKONNEN&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
@@ -73,13 +75,13 @@ Results-driven **Full Stack Engineer** and **Team Lead** with proven experience 
 
 ### 📍 Featured Projects
 
-> Check out my pinned repositories for the latest production-grade work
+> Explore my pinned repositories showcasing production-grade applications
 
-*(Replace this section with 3–5 of your strongest projects using this format:)*
+*(Replace with your best projects)*
 
 **Project Name**  
-Short powerful description (2 lines).  
-`Tech: Spring Boot • Next.js • PostgreSQL • Docker`
+Compelling one-line description highlighting impact or challenge solved.  
+`Tech: Spring Boot • Next.js • PostgreSQL • Docker • AWS`
 
 ---
 
