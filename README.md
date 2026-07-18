@@ -1,19 +1,19 @@
 # 👋 Hi, I'm Besufkad Mekonnen
 
-![Header](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0A66C2,1E88E5,00C853,4A90E2&height=280&section=header&text=Besufkad%20Mekonnen&fontSize=46&fontAlignY=37&desc=Full%20Stack%20Engineer%20%7C%20Mobile%20Architect%20%7C%20Team%20Lead&descAlignY=65)
+![Header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0A66C2,1E88E5,00C853,29B6F6&height=300&section=header&text=Besufkad%20Mekonnen&fontSize=48&fontAlignY=35&desc=Full%20Stack%20Engineer%20%E2%80%A2%20Mobile%20Architect%20%E2%80%A2%20Team%20Lead&descAlignY=68)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=29&color=00E676&center=true&vCenter=true&width=820&lines=Full+Stack+Engineer;Mobile+Application+Architect;Spring+Boot+%7C+Next.js+%7C+React+Native;Passionate+about+Scalable+Enterprise+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=00FF9F&center=true&vCenter=true&width=850&lines=Full+Stack+Engineer;Mobile+Application+Architect;Spring+Boot+%7C+Next.js+%7C+React+Native;Crafting+Scalable+Enterprise+Solutions)](https://git.io/typing-svg)
 
 ---
 
 ### 🚀 About Me
 
-Dynamic **Full Stack Engineer** and **Team Lead** with a strong track record of designing, architecting, and leading the development of high-performance web and mobile applications. I thrive on turning complex challenges into clean, scalable, and user-focused solutions.
+Results-oriented **Full Stack Engineer** and **Team Lead** with extensive experience in architecting and leading the development of robust, scalable web and mobile applications. I combine strong technical expertise with leadership skills to deliver high-quality solutions that exceed expectations.
 
-- 🌱 Currently mastering **Spring Boot microservices**, **cloud-native architectures**, and **distributed systems**
-- 💼 Proven experience leading development teams and delivering projects end-to-end
-- 🎯 Mission: Build impactful software that drives business value and exceptional user experiences
-- ⚡ Beyond coding, I love solving algorithmic challenges and contributing to the developer community
+- 🌱 Deepening expertise in **Spring Boot microservices**, **cloud-native systems**, and **distributed architecture**
+- 💼 Experienced in leading teams and managing projects from ideation to successful production deployment
+- 🎯 Mission: Design and build elegant, performant software that creates real business impact
+- ⚡ Outside of work, I enjoy competitive programming, exploring new technologies, and mentoring aspiring developers
 
 ---
 
@@ -30,21 +30,21 @@ Dynamic **Full Stack Engineer** and **Team Lead** with a strong track record of 
 </p>
 
 **Highlights:**
-- **Backend:** Spring Boot (Java/Kotlin), NestJS, TypeScript
-- **Frontend:** Next.js (App Router), React, Tailwind CSS
-- **Mobile:** Flutter & React Native (Expo)
-- **Database:** PostgreSQL, MongoDB, Prisma, Drizzle ORM
-- **DevOps & Others:** Docker, CI/CD, AWS, Git, Jenkins
+- **Backend** — Spring Boot (Java/Kotlin), NestJS, TypeScript
+- **Frontend** — Next.js (App Router), React, Tailwind CSS
+- **Mobile** — Flutter & React Native (Expo)
+- **Database** — PostgreSQL, MongoDB, Prisma, Drizzle
+- **DevOps** — Docker, CI/CD, AWS, Jenkins
 
 ---
 
 ### 💼 Experience & Leadership
 
-- **Team Leadership** — Led cross-functional teams in delivering full-stack and mobile applications, focusing on code quality, mentorship, and on-time delivery.
-- **Full-Stack Architecture** — Designed and implemented scalable solutions using **Spring Boot microservices** and modern TypeScript ecosystems.
-- **Mobile Development** — Built performant, native-feeling cross-platform applications with Flutter and React Native.
-- **System Design** — Applied Clean Architecture, Domain-Driven Design (DDD), REST & GraphQL APIs, and scalable system patterns.
-- **Engineering Excellence** — Champion of Test-Driven Development (TDD), CI/CD pipelines, performance optimization, security, and clean code principles.
+- **Team Leadership** — Led cross-functional development teams, ensuring high code standards, mentorship, and consistent on-time delivery.
+- **Full-Stack Architecture** — Designed scalable applications leveraging **Spring Boot microservices** and modern TypeScript stacks.
+- **Mobile Engineering** — Developed high-performance, native-like cross-platform apps using Flutter and React Native.
+- **Software Architecture** — Expert in Clean Architecture, Domain-Driven Design (DDD), and scalable system patterns.
+- **Engineering Practices** — Strong proponent of TDD, CI/CD pipelines, performance tuning, security, and maintainable code.
 
 ---
 
