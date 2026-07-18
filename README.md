@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Besufkad Mekonnen
 
-![Header](https://capsule-render.vercel.app/api?type=wave&color=0A66C2,4A90E2,1E88E5&height=260&section=header&text=Besufkad%20Mekonnen&fontSize=45&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Mobile%20Architect%20%7C%20Team%20Lead&descAlignY=64)
+![Header](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0A66C2,1E88E5,00C853,4A90E2&height=280&section=header&text=Besufkad%20Mekonnen&fontSize=46&fontAlignY=37&desc=Full%20Stack%20Engineer%20%7C%20Mobile%20Architect%20%7C%20Team%20Lead&descAlignY=65)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=00E676&center=true&vCenter=true&width=800&lines=Full+Stack+Engineer;Mobile+Application+Architect;Spring+Boot+%7C+Next.js+%7C+React+Native;Passionate+about+Scalable+Enterprise+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=29&color=00E676&center=true&vCenter=true&width=820&lines=Full+Stack+Engineer;Mobile+Application+Architect;Spring+Boot+%7C+Next.js+%7C+React+Native;Passionate+about+Scalable+Enterprise+Solutions)](https://git.io/typing-svg)
 
 ---
 
@@ -48,15 +48,6 @@ Dynamic **Full Stack Engineer** and **Team Lead** with a strong track record of 
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BESUFKADMEKONNEN&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BESUFKADMEKONNEN&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 ### 🌐 Connect With Me
 
 <div align="center">
@@ -70,18 +61,6 @@ Dynamic **Full Stack Engineer** and **Team Lead** with a strong track record of 
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
-
----
-
-### 📍 Featured Projects
-
-> Explore my pinned repositories showcasing production-grade applications
-
-*(Replace with your best projects)*
-
-**Project Name**  
-Compelling one-line description highlighting impact or challenge solved.  
-`Tech: Spring Boot • Next.js • PostgreSQL • Docker • AWS`
 
 ---
 
